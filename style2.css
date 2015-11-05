@@ -1,0 +1,34 @@
+@media screen and (max-width: 800px) {
+  h1 {
+    text-align: center;
+  font-family: purisa ;}
+
+  p {
+  text-align: center;
+  font-family: purisa;
+  font-size: 2.2em;
+  }
+
+h1 {
+font-family: cursive;
+font-size: 2.2em;
+}
+
+p b {
+font-family: cursive; }
+
+  body {
+    background-image:url(http://img0.mxstatic.com/wallpapers/edcc55554a640945e7b637d49bec2b57_large.jpeg);
+    color: lightgrey;
+    background-repeat: no-repeat;
+
+  }
+  div {
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 5px grey double;
+    width:75%;
+    height:75%;
+    box-shadow: 5px 5px 5px white;
+
+  }
+}

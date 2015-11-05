@@ -2,23 +2,36 @@
 
 h1 {
   text-align: center;
-}
+font-family: purisa ;}
 
 p {
 text-align: center;
+font-family: purisa;
 }
+
+h1 {
+font-family: cursive;
+}
+
+p b {
+font-family: cursive; }
+
 
 body {
-  background-image :url(http://27walls.com/walls/games/abstract-atom-864864-1920x1080.jpg);
+  background-image:url(http://img0.mxstatic.com/wallpapers/edcc55554a640945e7b637d49bec2b57_large.jpeg);
   color: lightgrey;
+  background-repeat: no-repeat;
 }
-
 div {
   background-color: rgba(0, 0, 0, 0.7);
-  border: 2px grey solid;
+  border: 5px grey double;
   width: 50%;
   height: 50%;
-  box-shadow: 5px 15px 15px black;
+  box-shadow: 5px 15px 15px white;
 margin-left: auto;
 margin-right: auto;
+}
+
+@media screen  and (max-width: 800px){
+p {}
 }
