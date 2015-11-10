@@ -1,4 +1,4 @@
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
   h1 {
     text-align: center;
   font-family: purisa ;}
@@ -13,7 +13,7 @@ h1 {
 font-family: cursive;
 font-size: 2.2em;
 }
- 
+
 p b {
 font-family: cursive; }
 
